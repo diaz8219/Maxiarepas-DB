@@ -1,0 +1,30 @@
+1	Arepa Tradicional	9239	Arepa tradicional colombiana elaborada con maiz blanco.
+2	Arepa de Choclo	10218	Deliciosa arepa dulce hecha con choclo fresco.
+3	Arepa de Queso	5784	Arepa suave rellena de queso derretido.
+4	Arepa de Yuca	13334	Arepa crocante hecha con harina de yuca.
+5	Arepa de Maiz Blanco	3664	Arepa de maiz blanco ideal para acompañar el desayuno.
+6	Arepa Rellena de Pollo	3098	Arepa rellena de pollo sazonado y desmechado.
+7	Arepa Rellena de Carne	6616	Arepa con relleno de carne molida y especias.
+8	Arepa Rellena de Cerdo	14330	Arepa rellena de cerdo desmechado al estilo colombiano.
+9	Arepa Rellena de Queso y Jamon	7594	Arepa rellena de jamon y queso fundido.
+10	Arepa de Huevo	8736	Arepa frita rellena de huevo y especias.
+11	Arepa Dulce	6283	Arepa dulce perfecta para una merienda ligera.
+12	Arepa con Mantequilla	12100	Arepa simple servida con mantequilla derretida.
+13	Arepa con Chorizo	11761	Arepa con chorizo asado y trozos de queso.
+14	Arepa con Aguacate	11495	Arepa ligera con rodajas de aguacate fresco.
+15	Arepa con Carne Desmechada	2342	Arepa con carne desmechada y salsa criolla.
+16	Arepa de Quinua	13333	Arepa de quinua con textura suave y sabor unico.
+17	Arepa de Platano	4492	Arepa dulce de platano maduro y queso.
+18	Arepa con Frijoles	9306	Arepa rellena de frijoles refritos y queso fresco.
+19	Arepa con Vegetales	12312	Arepa con vegetales asados y aderezo especial.
+20	Arepa Integral	8380	Arepa integral rica en fibra y sabor.
+21	Arepa con Champinones	8688	Arepa con champinones salteados y queso derretido.
+22	Arepa con Tocino	4098	Arepa con tocino crujiente y mantequilla.
+23	Arepa con Suero Costeno	6488	Arepa con suero costeno y queso rallado.
+24	Arepa con Puerro y Queso	8296	Arepa con puerro caramelizado y queso suave.
+25	Arepa de Arroz	7087	Arepa elaborada con arroz cocido y especias.
+26	Arepa con Salsa Criolla	8738	Arepa con salsa criolla picante.
+27	Arepa con Aji Picante	6591	Arepa con aji picante y queso fresco.
+28	Arepa con Hogao	6400	Arepa con hogao tradicional colombiano.
+29	Arepa con Miel y Queso	14459	Arepa dulce con miel y queso fresco.
+30	Arepa con Pesto	12736	Arepa con salsa de pesto y queso.

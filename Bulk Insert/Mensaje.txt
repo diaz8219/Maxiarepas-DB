@@ -1,0 +1,30 @@
+1	20	mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer	3
+2	27	nam dui proin leo odio porttitor id consequat in consequat	5
+3	28	non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse	3
+4	20	ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam	3
+5	30	in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et	5
+6	15	ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem	2
+7	8	risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed	2
+8	20	est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla	5
+9	5	lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis	5
+10	8	ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam	5
+11	24	nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis	1
+12	23	ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est	3
+13	25	ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien	2
+14	5	duis ac nibh fusce lacus purus aliquet at feugiat non pretium	5
+15	3	luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus	1
+16	25	ac diam cras pellentesque volutpat dui maecenas tristique est et	5
+17	20	sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra	3
+18	29	cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros	5
+19	25	praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum	2
+20	19	nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et	2
+21	7	at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna	5
+22	26	duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non	4
+23	4	leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien	1
+24	15	viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam	1
+25	14	id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec	5
+26	22	nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec	1
+27	28	ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis	3
+28	16	vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue	4
+29	17	velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla	1
+30	24	sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit	3
